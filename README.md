@@ -22,6 +22,10 @@
 
 ## 🎯 Vision
 
+| Grab                | OKX                     |
+|---------------------|----------------------|
+| <a href="https://revolut.me/nphausg" target="_blank"><img src="docs/grab.gif" alt="nphausg" style="width: 386px !important;" ></a> |  <a href="https://revolut.me/nphausg" target="_blank"><img src="docs/okx.gif" alt="nphausg" style="width: 386px !important;" ></a> |
+
 
 ## ✨ Features
 
