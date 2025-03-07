@@ -5,9 +5,17 @@
 <a href="https://revolut.me/nphausg" target="_blank"><img src="logo.png" alt="nphausg" style="width: 386px !important;" ></a>
 </p>
 <p align="center">
-<a href="https://reactnative.dev/docs/contributing">
+<div align="center">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-</a>
+    <img src="https://img.shields.io/badge/kotlin-v2.1.0-blue.svg">
+    <img src="https://img.shields.io/badge/gradle-8.8.2-blueviolet.svg">
+    <img src="https://img.shields.io/badge/API-21%2B-blue.svg?style=flat">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-success.svg">
+    <img src="https://circleci.com/gh/twilio-labs/plugin-rtc.svg?style=svg">
+    <a href="https://github.com/nphausg/compose.draggable-unlocker/actions/workflows/deploy.yml">
+        <img alt="Build Status" src="https://github.com/nphausg/compose.draggable-unlocker/actions/workflows/deploy.yml/badge.svg"/>
+    </a>
+</div>
 <br>
 <span>Welcome to <b>Draggable Compose Widget</b>, a lightweight and customizable Jetpack Compose component that enables drag-and-drop functionality with smooth animations and state management. Ideal for building interactive UI elements such as sliders, cards, or custom gestures in Android apps. 🎨📱
 </span>
@@ -20,7 +28,7 @@
 <a href="https://revolut.me/nphausg" target="_blank"><img src="docs/demo.gif" alt="nphausg" style="width: 386px !important;" ></a>
 </p>
 
-## 🎯 Vision
+## 🎯 Inspired
 
 | Grab                | OKX                     |
 |---------------------|----------------------|
